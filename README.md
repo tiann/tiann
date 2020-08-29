@@ -1,4 +1,10 @@
-### Hi there 👋
+👻 Hey!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tiann&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+I am a professional Android Developer and a software architect.
+
+- 🔭 I’m starting a business in <b>Shen Zhen, China.</b>
+- 🌱 I’m currently working on cloud phone and cloud game.
 
 <!--
 **tiann/tiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
